@@ -1,0 +1,5 @@
+package com.in28minutes.coursecontrollerRESTApi.courses.controller;
+
+public class Course {
+
+}

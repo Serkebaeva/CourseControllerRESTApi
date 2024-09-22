@@ -1,0 +1,9 @@
+spring.application.name=coursecontrollerRESTApi
+logging.level.org.springframework=DEBUG
+#management.endpoints.web.exposure.include=*
+management.endpoints.web.exposure.include=health, metrics
+spring.h2.console.enabled=true
+spring.datasource.url=jdbc:h2:mem:testdb;NON_KEYWORDS=COURSE
+spring.datasource.schema=classpath:data.sql
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.defer-datasource-initialization=true

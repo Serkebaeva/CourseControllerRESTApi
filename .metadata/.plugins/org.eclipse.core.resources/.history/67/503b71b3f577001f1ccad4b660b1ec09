@@ -1,0 +1,9 @@
+create table COURSE
+(
+insert into COURSE (ID, NAME, AUTHOR)
+values (101, 'Learn Microservices', 'in28minutes');
+insert into COURSE (ID, NAME, AUTHOR)
+values (102, 'Learn FullStack with React and Angular', 'in28minutes');
+insert into COURSE (ID, NAME, AUTHOR)
+values (103, 'Learn AWS, GCP and Azure', 'in28minutes');
+);

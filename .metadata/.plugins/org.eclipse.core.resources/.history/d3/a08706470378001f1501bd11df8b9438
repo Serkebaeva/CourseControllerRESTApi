@@ -1,0 +1,3 @@
+INSERT INTO "course" VALUES (101, 'Learn Microservices', 'in28minutes');
+INSERT INTO "course" VALUES (102, 'Learn FullStack with React and Angular', 'in28minutes');
+INSERT INTO "course" VALUES (103, 'Learn AWS, GCP and Azure', 'in28minutes');
